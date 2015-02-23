@@ -53,9 +53,8 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Screenshots ==
 
-1. Adding  item.
-2. Option panel for this plugin.
-3. Shortcode button in editor
+1. Added  item and showing image effects.
+
 
 == Changelog ==
 
