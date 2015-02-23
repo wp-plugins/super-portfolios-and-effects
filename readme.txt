@@ -1,7 +1,7 @@
 === Super portfolio and effects ===
 Contributors: Prince Chowdhury
-Donate link: http://www.themes.wpeffects.com/plugins/donate
-Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, modal
+Donate link: http://www.plugins.wpcops.com/plugins/donate
+Tags: hover effect, css3 hover effects, portfolio,popup portfolio, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, modal
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 3.2
@@ -17,7 +17,7 @@ super portfolios and effects plugin providing your modal description for portfol
 
 You can easily add portfolios using an image & embed them in separate page post.
 
-See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
+See live demo here: http://www.demo.wpcops.com/plugins/super-portdolios-and-effects/
 
 <strong>Features</strong>
 <ul>
@@ -59,9 +59,6 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 3. Shortcode button in editor
 
 == Changelog ==
-
-= 3.4 =
-* Removes widget support
 
 
 = 1.0 =
