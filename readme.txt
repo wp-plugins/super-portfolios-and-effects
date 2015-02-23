@@ -53,7 +53,7 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Screenshots ==
 
-1. Added  item and showing image effects.
+1. Added item on page and showing image effects.
 
 
 == Changelog ==
