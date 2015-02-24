@@ -45,25 +45,7 @@ return array(
 						),array(
 							'value' => 'style5',
 							'label' => 'Style 5',
-						),array(
-							'value' => 'style6',
-							'label' => 'Style 6',
-						),array(
-							'value' => 'style7',
-							'label' => 'Style 7',
-						),array(
-							'value' => 'style8',
-							'label' => 'Style 8',
-						),array(
-							'value' => 'style9',
-							'label' => 'Style 9',
-						),array(
-							'value' => 'style10',
-							'label' => 'Style 10',
-						),array(
-							'value' => 'style11',
-							'label' => 'Style 11',
-						),		
+						),	
 	
 				),	),			
 
@@ -108,9 +90,9 @@ return array(
 			
 			
 			
-	// shortcodes collection in this menu
+	// shortcodes collection in this menu//
 
-			// shortcode with attribute
+			/* shortcode with attribute
 			'acb2' => array(
 			'title' => __('Button Settings', 'qualia_td'),
 			'code' => '[hover style="style3"]',
@@ -128,7 +110,7 @@ return array(
 
 				
 				),
-			),		
+			),	*/	
 		),
 	),	
 	

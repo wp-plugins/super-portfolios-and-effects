@@ -115,13 +115,16 @@ function portfolios_custom_post_type_shortcode($atts){
 		
 		
 		$output .= '<div class="grid1">
+		
 					<figure class="effect-roxy">
+				
 						<img src="'.$port_image.'" alt="img12"/ >
+						
 						<figcaption>
 							<div>
-								<h2>'.$title.'</h2>
+<h2><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$title.'</a></h2>
                               </div>
-							<a href="#" class="infos" data-reveal-id="'.$id.'">'.$button_text.'</a>
+							
 						</figcaption>			
 					</figure>
 
@@ -184,7 +187,7 @@ function portfolios_custom_post_type_shortcode($atts){
 						<img src="'.$port_image.'" alt="img12"/ >
 						<figcaption>
 							<div>
-								<h2>'.$title.'</h2>
+								<h2><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$title.'</a></h2>
                               </div>
 							<a href="#" class="infos" data-reveal-id="'.$id.'">'.$button_text.'</a>
 						</figcaption>			
@@ -244,7 +247,7 @@ function portfolios_custom_post_type_shortcode($atts){
 		$output .= '<div class="portfolios portfolios-third">
                     <a href="#" class="infos" data-reveal-id="'.$id.'"><img src="'.$port_image.'" alt="" >
                     <div class="masks">
-                        <h2>'.$title.'</h2></a>
+      <h2><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$title.'</a></h2></a>
                   
                     </div>
                 </div> ';
@@ -293,7 +296,7 @@ function portfolios_custom_post_type_shortcode($atts){
 		
 		<img src="'.$port_image.'" alt="" />
 		<div class="blr">
-			<h2>'.$title.'</h2>
+			<h2><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$title.'</a></h2>
 			
 		</div>
 	</div> ';
@@ -355,7 +358,7 @@ function portfolios_custom_post_type_shortcode($atts){
         <h1>'.$title.'</h1>
         <h3>'.$companyname.'</h3>
       </div>
-      <img src="'.$port_image.'"/>
+   <a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">   <img src="'.$port_image.'"/></a>
     </a>
   </div>
 </div>';

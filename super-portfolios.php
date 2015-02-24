@@ -92,7 +92,7 @@ function portfolios_custom_post_type() {
 add_action( 'init', 'portfolios_custom_post_type_taxonomy'); 
 function portfolios_custom_post_type_taxonomy() {
 	register_taxonomy(
-		'portfolio_cat',  
+		'portfolios_cat',  
 		'portfolios',
 		array(
 			'hierarchical'          => true,
