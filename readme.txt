@@ -20,6 +20,7 @@ You can easily add portfolios using an image & embed them in separate page post.
 See live demo here: http://www.demo.wpcops.com/super-portfolio-and-effect
 
 <strong>Features</strong>
+
 <ul>
 	<li>Super easy Installation. </li>
 	<li>5 portfolio Effects (free version). </li>
