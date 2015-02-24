@@ -17,7 +17,7 @@ super portfolios and effects plugin providing you a large ability to show your w
 
 You can easily add portfolios using an image & embed them in separate page post.
 
-See live demo here: http://www.demo.wpcops.com/super-portfolio-and-effects/
+See live demo here: http://www.demo.wpcops.com/super-portfolio-and-effect
 
 <strong>Features</strong>
 <ul>
