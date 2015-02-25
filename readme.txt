@@ -1,7 +1,7 @@
 === Super portfolio and effects ===
 Contributors: Prince Chowdhury
 Donate link: http://www.wpcops.com/plugins/donate
-Tags: hover effect, css3 hover effects, portfolio,popup portfolio, image hover, image caption, wp image caption, css3 transition, modal popup,modal portfolio,portfolio effects
+Tags: hover effect, css3 hover effects, popup,pop up, modal project, portfolio,popup portfolio, image hover, image caption, wp image caption, css3 transition, modal popup,modal portfolio,portfolio effects
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.2
