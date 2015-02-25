@@ -5,7 +5,7 @@ Plugin URI: http://demo.wpeffects.com/
 Description: super portfolios and effects plugin providing your modal description for portfolio and few effects on your portfolio image
 Author: Prince Chowdhury
 Author URI: http://demo.wpeffects.com/
-Version: 3.3
+Version: 1.2
 */
 
 //Loading CSS
