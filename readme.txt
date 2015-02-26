@@ -66,7 +66,7 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 = 1.2 =
-* dUpdate modal design and width pixel
+* Update modal design and width pixel
 
 
 
