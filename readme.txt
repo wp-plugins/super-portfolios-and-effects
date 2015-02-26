@@ -22,7 +22,7 @@ super portfolios and effects providing your modal description for portfolio and 
 
 You can easily add portfolios using an image & embed them in separate page post.
 
-See live demo here: http://demo.wpcops.com/modal-popup-portfolio-and-image-effect/
+See live demo here: http://demo.wpcops.com/super-portfolio-and-effect/
 
 <strong>Features</strong>
 <ul>
