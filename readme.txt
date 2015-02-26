@@ -17,7 +17,7 @@ super portfolios and effects plugin providing your modal description for portfol
 
 You can easily add portfolios using an image & embed them in separate page post.
 
-See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
+See live demo here: http://demo.wpcops.com/modal-popup-portfolio-and-image-effect/
 
 <strong>Features</strong>
 <ul>
@@ -59,6 +59,7 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 3. Shortcode button in editor
 
 == Changelog ==
+
 
 = 3.4 =
 * Removes widget support
