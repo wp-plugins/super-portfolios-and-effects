@@ -8,12 +8,17 @@ Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Modal popup portfolio and image effects plugin providing your modal description for portfolio and few effects on your portfolio image
+
+== Screenshots ==
+
+1. Adding  item.
+2. Option panel for this plugin.
+3. Shortcode button in editor
 
 
 == Description ==
 
-super portfolios and effects plugin providing your modal description for portfolio and few effects on your portfolio image
+Modal popup portfolio and image effects providing your modal description for portfolio and few effects on your portfolio image
 
 You can easily add portfolios using an image & embed them in separate page post.
 
@@ -22,10 +27,11 @@ See live demo here: http://demo.wpcops.com/modal-popup-portfolio-and-image-effec
 <strong>Features</strong>
 <ul>
 	<li>Super easy Installation. </li>
-	<li>Pure CSS3 Effects </li>
-	<li>15 portfolio Effects (free version). </li>
+	<li>JQuery and CSS3 Effects </li>
+	<li>5 portfolio Effects (free version). </li>
 	<li>Custom post enabled. </li>
 	<li>Category Support. </li>
+        <li>Modal Support. </li>
 	<li>Custom ordering. </li>
 	<li> option panel. </li>
 	<li>Shortcode Powered. </li>
@@ -52,17 +58,20 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 
-== Screenshots ==
-
-1. Adding  item.
-2. Option panel for this plugin.
-3. Shortcode button in editor
 
 == Changelog ==
 
+= 1.3 =
+* image effects update
 
-= 3.4 =
-* Removes widget support
+
+= 1.2 =
+* dUpdate modal design and width pixel
+
+
+
+= 1.1 =
+* documentation and option panel update
 
 
 = 1.0 =
