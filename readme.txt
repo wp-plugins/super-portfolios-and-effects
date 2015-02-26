@@ -1,29 +1,29 @@
-=== Super portfolio and effects ===
+=== modal popup portfolio and image effects ===
 Contributors: Prince Chowdhury
-Donate link: http://www.wpcops.com/plugins/donate
-Tags: hover effect, css3 hover effects, popup,pop up, modal project, portfolio,popup portfolio, image hover, image caption, wp image caption, css3 transition, modal popup,modal portfolio,portfolio effects
+Donate link: http://www.demo.wpcops.com/plugins/donate
+Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, modal
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.2
+Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-super portfolios and effects plugin providing your description on modal popup for portfolio and few effects on your portfolio images
+super portfolios and effects plugin providing your modal description for portfolio and few effects on your portfolio image
 
 
 == Description ==
 
-super portfolios and effects plugin providing you a large ability to show your work portfolio with modal popupand few effects on your portfolio images.
+super portfolios and effects plugin providing your modal description for portfolio and few effects on your portfolio image
 
 You can easily add portfolios using an image & embed them in separate page post.
 
-See live demo here: http://www.demo.wpcops.com/super-portfolio-and-effect
+See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
 
 <strong>Features</strong>
-
 <ul>
 	<li>Super easy Installation. </li>
-	<li>5 portfolio Effects (free version). </li>
+	<li>Pure CSS3 Effects </li>
+	<li>15 portfolio Effects (free version). </li>
 	<li>Custom post enabled. </li>
 	<li>Category Support. </li>
 	<li>Custom ordering. </li>
@@ -43,10 +43,10 @@ See live demo here: http://www.demo.wpcops.com/super-portfolio-and-effect
 
 Installing this plugin as regular wordpress plugin.
 
-After install, this plugin enable a custom post called <strong>portfolios</strong>. Add category & items on that custom post called portoflios. 
-After adding items, you are ready to use this plugin in your post or page anywhere you like with shortcode
+After install, this plugin enable a custom post called <strong>portfolios</strong>. Add category & items on that custom post. 
+After adding items, you are ready to use this plugin in your post, page, widget or anywhere you like. 
 
-Go to page > Add New. On the editor, you will see a blue button and select you options by clicking insert button you see the shortcode like <code>[portfolios category="Category_Name" style="style1"]</code>
+Go to page > Add New. On the editor, you will see a blue button  by clicking button you see the shortcode like <code>[portfolios category="Category_Name" style="style1"]</code>
 
 Use category title, not category id or slag. Make sure spelling is ok. It is case sensitive. 
 
@@ -54,16 +54,15 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Screenshots ==
 
-1. Added item on page and showing image effects.
-
+1. Adding  item.
+2. Option panel for this plugin.
+3. Shortcode button in editor
 
 == Changelog ==
 
-= 1.2 =
-* update modal design and options
+= 3.4 =
+* Removes widget support
 
-= 1.1 =
-* Updated documentation and readme file
 
 = 1.0 =
 * First Release
