@@ -1,4 +1,4 @@
-=== modal popup portfolio and image effects ===
+=== super portfolios and effects ===
 Contributors: Prince Chowdhury
 Donate link: http://www.demo.wpcops.com/plugins/donate
 Tags: hover effect, css3 hover effects, image effects, effects wordpress plugin, image hover, image caption, wp image caption, css3 transition, modal popup, pop up, wordpress modal popup portofolio,
@@ -18,7 +18,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Modal popup portfolio and image effects providing your modal description for portfolio and few effects on your portfolio image
+super portfolios and effects providing your modal description for portfolio and few effects on your portfolio image
 
 You can easily add portfolios using an image & embed them in separate page post.
 
