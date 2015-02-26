@@ -75,6 +75,11 @@
 	font-weight: 300;
 }
 
+.grid1 figure h3 {
+	word-spacing: -0.15em;
+	font-weight: 300;
+}
+
 .grid1 figure h2 span {
 	font-weight: 800;
 }
@@ -256,7 +261,7 @@ figure.effect-roxy figcaption {
 }
 
 figure.effect-roxy h2 {
-	padding: 30% 0 10px 0;
+	
 	color:white;
 }
 
@@ -763,7 +768,7 @@ figure.effect-ruby:hover img {
 }
 
 figure.effect-ruby h2 {
-	margin-top: 20%;
+	
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
 	-webkit-transform: translate3d(0,20px,0);
@@ -772,8 +777,8 @@ figure.effect-ruby h2 {
 }
 
 figure.effect-ruby p {
-	margin: 1em 0 0;
-	padding: 3em;
+	
+	
 	border: 1px solid #fff;
 	opacity: 0;
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;

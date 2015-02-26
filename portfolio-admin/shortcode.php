@@ -58,6 +58,7 @@ function portfolios_custom_post_type_shortcode($atts){
 		$portpic_2 = vp_metabox('infos.portfolios.0.portpic_2', false);
 		$portpic_3 = vp_metabox('infos.portfolios.0.portpic_3', false);
 		$portpic_4 = vp_metabox('infos.portfolios.0.portpic_4', false);
+		$button_text = vp_metabox('infos.portfolios.0.button_text', false);
 
 
 		
@@ -121,9 +122,12 @@ function portfolios_custom_post_type_shortcode($atts){
 						<img src="'.$port_image.'" alt="img12"/ >
 						
 						<figcaption>
-							<div>
-<h2><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$title.'</a></h2>
-                              </div>
+							
+                     <h2 style="color:white;">'.$title.'</h2>
+					 <p>'.$desc.'</p>
+<h3><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$button_text.'</a></h3>
+							  
+							 
 							
 						</figcaption>			
 					</figure>
@@ -186,10 +190,11 @@ function portfolios_custom_post_type_shortcode($atts){
 					<figure class="effect-ruby">
 						<img src="'.$port_image.'" alt="img12"/ >
 						<figcaption>
-							<div>
-								<h2><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$title.'</a></h2>
-                              </div>
-							<a href="#" class="infos" data-reveal-id="'.$id.'">'.$button_text.'</a>
+						
+ <h2 style="color:white;">'.$title.'</h2>
+					 <p>'.$desc.'</p>
+<h3><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$button_text.'</a></h3>
+							
 						</figcaption>			
 					</figure>
 
@@ -297,7 +302,9 @@ function portfolios_custom_post_type_shortcode($atts){
 		<img src="'.$port_image.'" alt="" />
 		<div class="blr">
 			<h2><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$title.'</a></h2>
-			
+			<p style="color:white;">'.$desc.'</p>
+<h3><a href="#" class="infos" data-reveal-id="'.$id.'" style="color:white;">'.$button_text.'</a></h3>
+						
 		</div>
 	</div> ';
 		}		
